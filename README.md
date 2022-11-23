@@ -17,3 +17,7 @@ Stocks by Land Use and Parcel Size in Ontario, Canada.
 Available at SSRN: https://ssrn.com/abstract=4125300 or http://dx.doi.org/10.2139/ssrn.4125300
 
 The above article remains in review and its publication is dependent upon peer review. Additional data and methods will be placed within this repository if it is accepted for publication.
+
+## Acknowledgments
+
+The contents in this repository are the outcome of a combination of [NSERC-DG] (https://www.nserc-crsng.gc.ca/ase-oro/Details-Detailles_eng.asp?id=567690) and a subsequent Grants and Contributions award from Environment and Climate Change Canada.
