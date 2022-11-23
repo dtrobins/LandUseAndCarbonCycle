@@ -20,4 +20,4 @@ The above article remains in review and its publication is dependent upon peer r
 
 ## Acknowledgments
 
-The contents in this repository are the outcome of a combination of [NSERC-DG] (https://www.nserc-crsng.gc.ca/ase-oro/Details-Detailles_eng.asp?id=567690) and a subsequent Grants and Contributions award from Environment and Climate Change Canada.
+The contents in this repository are the outcome of a combination of funding from NSERC-DG (https://www.nserc-crsng.gc.ca/ase-oro/Details-Detailles_eng.asp?id=567690) and a Grants and Contributions award from Environment and Climate Change Canada.
