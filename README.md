@@ -18,6 +18,12 @@ Available at SSRN: https://ssrn.com/abstract=4125300 or http://dx.doi.org/10.213
 
 The above article remains in review and its publication is dependent upon peer review. Additional data and methods will be placed within this repository if it is accepted for publication.
 
+If you are specifically referencing contents of this repository then please reference the repository as follows:
+
+- Robinson, D., Zhang, J., MacDonald, D., and C. Samson. Settlement Terrestrial Carbon.
+[![DOI](https://zenodo.org/badge/446481262.svg)](https://zenodo.org/badge/latestdoi/446481262)
+
+
 ## Acknowledgments
 
 The contents in this repository are the outcome of a combination of funding from NSERC-DG (https://www.nserc-crsng.gc.ca/ase-oro/Details-Detailles_eng.asp?id=567690) and a Grants and Contributions award from Environment and Climate Change Canada.
