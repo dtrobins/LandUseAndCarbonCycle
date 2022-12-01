@@ -2,7 +2,7 @@
 
 This repository contains a Jupyter Notebook comprising an inventory method and carbon data that can be used to estimate above-ground terrestrial carbon storage in trees and below-ground carbon storage beneath tree cover, turfgrass, and on cropland and bare soils. The notebook "TerrestrialCEstimates.ipynb" is located in the SettlementCEstimates folder and can be viewed in Github. However, to activate cells and execute code will require software capable of interpreting the notebook such as Jupyter Lab.
 
-If you have any questions or remarks, please contact the authors:
+If you have any questions or remarks, please contact
 
 [Derek Robinson](https://uwaterloo.ca/geography-environmental-management/people-profiles/derek-t-robinson)
 dtrobins[at]uwaterloo.ca
