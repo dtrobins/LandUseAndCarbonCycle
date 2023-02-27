@@ -10,11 +10,11 @@ dtrobins[at]uwaterloo.ca
 ## References
 
 When you use the contents of this repository in your work, please reference the following 
-publication:
+publication in addition to the code:
 
 - Robinson, D., Zhang, J., MacDonald, D., and C. Samson. Settlement Land Cover and Carbon 
 Stocks by Land Use and Parcel Size in Ontario, Canada. 
-Available at SSRN: https://ssrn.com/abstract=4125300 or http://dx.doi.org/10.2139/ssrn.4125300
+Available at https://www.sciencedirect.com/science/article/pii/S1618866723000493
 
 The above article has been accepted for publication in the journal <a href="https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening">Urban Forestry and Urban Greening.</a>
 
