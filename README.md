@@ -16,7 +16,7 @@ publication:
 Stocks by Land Use and Parcel Size in Ontario, Canada. 
 Available at SSRN: https://ssrn.com/abstract=4125300 or http://dx.doi.org/10.2139/ssrn.4125300
 
-The above article remains in review and its publication is dependent upon peer review. Additional data and methods will be placed within this repository if it is accepted for publication.
+The above article has been accepted for publication in the journal <a href="https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening">Urban Forestry and Urban Greening.</a>
 
 If you are specifically referencing contents of this repository then please reference the repository as follows:
 
