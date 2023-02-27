@@ -1,4 +1,4 @@
-# Estimating the Differences in Settlement Terrestrial Carbon Among Land Uses and Parcel Sizes Using an Inventory Approach
+# Estimating Settlement carbon stock and density using an inventory approach and quantifying their variation by land use and parcel size
 
 This repository contains a Jupyter Notebook comprising an inventory method and carbon data that can be used to estimate above-ground terrestrial carbon storage in trees and below-ground carbon storage beneath tree cover, turfgrass, and on cropland and bare soils. The notebook "TerrestrialCEstimates.ipynb" is located in the SettlementCEstimates folder and can be viewed in Github. However, to activate cells and execute code will require software capable of interpreting the notebook such as Jupyter Lab.
 
